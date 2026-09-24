@@ -71,7 +71,12 @@ Content rated for kids (G, TV-G, TV-Y, TV-Y7, PG) is a small slice by comparison
 Hong Kong has the longest average lag (16.7 years), followed by Poland and Egypt. 
 India, despite being the second-biggest source of content by volume, has a comparatively short lag (6.8 years) — makes me think high-output countries might have more direct or faster-moving licensing/production deals, while smaller markets' catalogs trickle in later, probably older, previously-licensed content rather than new releases.
 
-## What's in this repo
+![Content mix trend] (content-mix-trend.png) 
+![Top 10 countries] (top-countries.png) 
+![Ratings distribution] (ratings-distribution.png) 
+![Licensing lag] (licensing-lag.png) 
+
+## Wha9content-mix-trendt's in this repo
 - `netflix-content-strategy-analysis.xlsx` — the full workbook, cleaned data, pivot tables, and charts
 - `content-mix-trend.png`
 - `top-countries.png`
